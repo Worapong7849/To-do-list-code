@@ -1,0 +1,15 @@
+@media (max-width: 421px) {
+    button {
+        padding: 18px 18px;
+    }
+
+    h1 {
+        font-size: 3rem;
+    }
+}
+
+@media (max-width: 360px) {
+    input {
+        width: 100%;
+    }
+}
